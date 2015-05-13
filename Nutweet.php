@@ -1,7 +1,7 @@
 <?php
 /* 
 	NuTweet - Simple PHP Twitter Api
-	created by Nurercholis
+	created by Noercholis
 	noercholis.com.or.die
 */
 
